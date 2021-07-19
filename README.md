@@ -12,6 +12,6 @@
 3.论文作图  
 &nbsp;&nbsp;&nbsp;&nbsp;a.分割效果对比图：将模型分割结果与GroundTruth作到同一张图上，更好的展示模型分割性能(红色为GT，绿色为pred)  
 &nbsp;&nbsp;&nbsp;&nbsp;![mask1](https://user-images.githubusercontent.com/61354006/126169287-add31d45-7d2e-4dad-ba68-cbe0df83191a.png)  
-&nbsp;&nbsp;&nbsp;&nbsp;使用作图代码需要建立的文件目录如下：  
+&nbsp;&nbsp;&nbsp;&nbsp;使用作图代码需要建立的文件夹目录如下：  
 &nbsp;&nbsp;&nbsp;&nbsp;![root](https://user-images.githubusercontent.com/61354006/126169596-1019826a-f3c0-45c4-8a27-c05766ab6ef0.png)  
 ......持续更新中  
