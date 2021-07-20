@@ -14,4 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;![mask1](https://user-images.githubusercontent.com/61354006/126169287-add31d45-7d2e-4dad-ba68-cbe0df83191a.png)  
 &nbsp;&nbsp;&nbsp;&nbsp;使用作图代码需要建立的文件夹目录如下：  
 &nbsp;&nbsp;&nbsp;&nbsp;![root](https://user-images.githubusercontent.com/61354006/126169596-1019826a-f3c0-45c4-8a27-c05766ab6ef0.png)  
+&nbsp;&nbsp;&nbsp;&nbsp;b.可视化类激活图  
+&nbsp;&nbsp;&nbsp;&nbsp;![1](https://user-images.githubusercontent.com/61354006/126245779-aeeeca24-18bd-4732-9c39-e8527c1cd4f5.png)
+
 ......持续更新中  
