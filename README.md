@@ -8,7 +8,7 @@
 2.模型  
 &nbsp;&nbsp;&nbsp;&nbsp;a.数据增强  
 &nbsp;&nbsp;&nbsp;&nbsp;b.分割  
-&nbsp;&nbsp;&nbsp;&nbsp;b.分类  
+&nbsp;&nbsp;&nbsp;&nbsp;c.分类  
 3.论文作图  
 &nbsp;&nbsp;&nbsp;&nbsp;a.分割效果对比图：将模型分割结果与GroundTruth作到同一张图上，更好的展示模型分割性能(红色为GT，绿色为pred)  
 &nbsp;&nbsp;&nbsp;&nbsp;![mask1](https://user-images.githubusercontent.com/61354006/126169287-add31d45-7d2e-4dad-ba68-cbe0df83191a.png)  
