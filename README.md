@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/61354006/125883143-5d1c0922-b897-4047-a668-7b5d35abd0ec.png)  
 &nbsp;&nbsp;&nbsp;&nbsp;b.数据集的划分——对分类数据集按照指定比例将其划分为训练集、验证集和测试集（7:2:1）  
 2.模型  
-&nbsp;&nbsp;&nbsp;&nbsp;a.数据增强  
+&nbsp;&nbsp;&nbsp;&nbsp;a.数据生成  
 &nbsp;&nbsp;&nbsp;&nbsp;b.分割  
 &nbsp;&nbsp;&nbsp;&nbsp;c.分类  
 3.论文作图  
